@@ -6,7 +6,7 @@ language: "" # language to set into html tag, default is en
 
 # User settings
 
-author: Miguel Celedon [Under Construction]
+author: Miguel Celedon
 author-title: Full Stack Developer
 gravatar: 6193b3be449309aef8648e907f6cdb52
 email: miguelceledon@outlook.com
@@ -15,7 +15,7 @@ github: miguelcldn
 googleplus: +MiguelCeledon
 facebook: miguel.celedon
 linkedin: miguelcldn/en
-bio: ""
+bio: "[Under construction]"
 
 # Skills
 #
@@ -29,131 +29,131 @@ bio: ""
 # You can change these names in _includes/_skill-level-name.html if you wish
 #
 # If you don't want one of the sections below, leave the variable without any values
-front-end:
-  - name: HTML 5
-    level: 
-  - name: CSS 3
-    level: 
-  - name: JavaScript
-    level: 
-  - name: jQuery
-    level: 
-  - name: Angular
-    level: 
-  - name: Vue.js
-    level: 
-  - name: Bootstrap
-    level: 
-  - name: Materialize CSS
-    level: 
-  - name: LESS
-    level: 
-  - name: SASS
-    level: 
-  - name: Stylus
-    level: 
-  - name: Gulp
-    level: 
-  - name: Grunt
-    level: 
-  - name: Bower
-    level: 
+# front-end:
+#   - name: HTML 5
+#     level: 
+#   - name: CSS 3
+#     level: 
+#   - name: JavaScript
+#     level: 
+#   - name: jQuery
+#     level: 
+#   - name: Angular
+#     level: 
+#   - name: Vue.js
+#     level: 
+#   - name: Bootstrap
+#     level: 
+#   - name: Materialize CSS
+#     level: 
+#   - name: LESS
+#     level: 
+#   - name: SASS
+#     level: 
+#   - name: Stylus
+#     level: 
+#   - name: Gulp
+#     level: 
+#   - name: Grunt
+#     level: 
+#   - name: Bower
+#     level: 
 
-back-end:
-  - name: PHP
-    level: 
-  - name: Node.js
-    level: 
-  - name: Ruby
-    level: 
-  - name: Python
-    level: 
-  - name: Java
-    level: 
-  - name: COBOL
-    level: 
-  - name: SQL
-    level: 
-  - name: Lua
-    level: 
+# back-end:
+#   - name: PHP
+#     level: 
+#   - name: Node.js
+#     level: 
+#   - name: Ruby
+#     level: 
+#   - name: Python
+#     level: 
+#   - name: Java
+#     level: 
+#   - name: COBOL
+#     level: 
+#   - name: SQL
+#     level: 
+#   - name: Lua
+#     level: 
 
-mobile:
-  - name: Android
-    level: 
-  - name: Apache Cordova
-    level: 
-  - name: Ionic
-    level: 
-  - name: NativeScript
-    level: 
+# mobile:
+#   - name: Android
+#     level: 
+#   - name: Apache Cordova
+#     level: 
+#   - name: Ionic
+#     level: 
+#   - name: NativeScript
+#     level: 
 
-db:
-  - name: MySQL
-    level: 
-  - name: PostgreSQL
-    level: 
-  - name: MongoDB
-    level: 
-  - name: SQL Server
-    level: 
-  - name: Oracle
-    level: 
-  - name: Firebase
-    level: 
-  - name: NoSQL
-    level: 
+# db:
+#   - name: MySQL
+#     level: 
+#   - name: PostgreSQL
+#     level: 
+#   - name: MongoDB
+#     level: 
+#   - name: SQL Server
+#     level: 
+#   - name: Oracle
+#     level: 
+#   - name: Firebase
+#     level: 
+#   - name: NoSQL
+#     level: 
 
-devops:
-  - name: Docker
-    level: 
-  - name: Vagrant
-    level: 
-  - name: Jenkins
-    level: 
-  - name: Git
-    level: 
-  - name: Apache Maven
-    level: 
-  - name: Continuous Integration
-    level: 
-  - name: Continuous Delivery
-    level: 
+# devops:
+#   - name: Docker
+#     level: 
+#   - name: Vagrant
+#     level: 
+#   - name: Jenkins
+#     level: 
+#   - name: Git
+#     level: 
+#   - name: Apache Maven
+#     level: 
+#   - name: Continuous Integration
+#     level: 
+#   - name: Continuous Delivery
+#     level: 
 
-methodologies:
-  - name: Agile Methodologies
-    level: 
-  - name: Scrum
-    level: 
-  - name: RUP
-    level: 
+# methodologies:
+#   - name: Agile Methodologies
+#     level: 
+#   - name: Scrum
+#     level: 
+#   - name: RUP
+#     level: 
 
-others:
-  - name: Web Services
-    level: 
-  - name: REST
-    level: 
-  - name: JEE, JSF, JPA, EJB, CDI
-    level: 
-  - name: iReport, Jasper Reports
-    level: 
-  - name: Hibernate
-    level: 
-  - name: Grails
-    level: 
-  - name: Symfony
-    level: 
-  - name: Twig
-    level: 
-  - name: Doctrine ORM
-    level: 
-  - name: Laravel, Blade, Eloquent ORM
-    level: 
-  - name: Ruby on Rails
-    level: 
-  - name: MEAN Stack
-    level: 
-  - name: Spring
-    level: 
+# others:
+#   - name: Web Services
+#     level: 
+#   - name: REST
+#     level: 
+#   - name: JEE, JSF, JPA, EJB, CDI
+#     level: 
+#   - name: iReport, Jasper Reports
+#     level: 
+#   - name: Hibernate
+#     level: 
+#   - name: Grails
+#     level: 
+#   - name: Symfony
+#     level: 
+#   - name: Twig
+#     level: 
+#   - name: Doctrine ORM
+#     level: 
+#   - name: Laravel, Blade, Eloquent ORM
+#     level: 
+#   - name: Ruby on Rails
+#     level: 
+#   - name: MEAN Stack
+#     level: 
+#   - name: Spring
+#     level: 
 
 # Build settings
 
