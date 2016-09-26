@@ -29,7 +29,7 @@ bio: "[Under construction]"
 # You can change these names in _includes/_skill-level-name.html if you wish
 #
 # If you don't want one of the sections below, leave the variable without any values
-# front-end:
+ front-end:
 #   - name: HTML 5
 #     level: 
 #   - name: CSS 3
@@ -59,7 +59,7 @@ bio: "[Under construction]"
 #   - name: Bower
 #     level: 
 
-# back-end:
+ back-end:
 #   - name: PHP
 #     level: 
 #   - name: Node.js
@@ -77,7 +77,7 @@ bio: "[Under construction]"
 #   - name: Lua
 #     level: 
 
-# mobile:
+ mobile:
 #   - name: Android
 #     level: 
 #   - name: Apache Cordova
@@ -87,7 +87,7 @@ bio: "[Under construction]"
 #   - name: NativeScript
 #     level: 
 
-# db:
+ db:
 #   - name: MySQL
 #     level: 
 #   - name: PostgreSQL
@@ -103,7 +103,7 @@ bio: "[Under construction]"
 #   - name: NoSQL
 #     level: 
 
-# devops:
+ devops:
 #   - name: Docker
 #     level: 
 #   - name: Vagrant
@@ -119,7 +119,7 @@ bio: "[Under construction]"
 #   - name: Continuous Delivery
 #     level: 
 
-# methodologies:
+ methodologies:
 #   - name: Agile Methodologies
 #     level: 
 #   - name: Scrum
@@ -127,7 +127,7 @@ bio: "[Under construction]"
 #   - name: RUP
 #     level: 
 
-# others:
+ others:
 #   - name: Web Services
 #     level: 
 #   - name: REST
