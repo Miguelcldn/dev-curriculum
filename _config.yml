@@ -20,8 +20,7 @@ bio: "Programming since the age of 12, at which age made my first program in BAS
         until I entered to University always aiming to take my passion further away. In love with 
         videogames, as a gamer and as a developer, wishing to work in that area while creating my 
         own small games for practices and fun, but I've worked in several projects that 
-        helped me to dominate a whole lot of technologies and techniques that makes me a self-sufficient 
-        developer."
+        helped me to dominate a whole lot of technologies and techniques that makes me a self sufficient developer."
 
 # Skills
 #
@@ -35,7 +34,7 @@ bio: "Programming since the age of 12, at which age made my first program in BAS
 # You can change these names in _includes/_skill-level-name.html if you wish
 #
 # If you don't want one of the sections below, leave the variable without any values
- front-end:
+front-end:
    - name: HTML 5
      level: 4
    - name: CSS 3
@@ -53,7 +52,7 @@ bio: "Programming since the age of 12, at which age made my first program in BAS
    - name: Gulp
      level: 3
 
- back-end:
+back-end:
    - name: PHP
      level: 3
    - name: Node.js
@@ -67,11 +66,11 @@ bio: "Programming since the age of 12, at which age made my first program in BAS
    - name: SQL
      level: 4
 
- mobile:
+mobile:
    - name: Android
      level: 2
 
- db:
+db:
    - name: MySQL
      level: 3
    - name: PostgreSQL
@@ -81,13 +80,13 @@ bio: "Programming since the age of 12, at which age made my first program in BAS
    - name: SQL Server
      level: 3
 
- devops:
+devops:
    - name: Git
      level: 4
    - name: Team Foundation Service
      level: 2
 
- methodologies:
+methodologies:
    - name: Agile Methodologies
      level: 3
    - name: Scrum
@@ -95,7 +94,7 @@ bio: "Programming since the age of 12, at which age made my first program in BAS
    - name: TDD/BDD
      level: 2
 
- others:
+others:
    - name: Web Services
      level: 3
    - name: REST
@@ -108,7 +107,7 @@ bio: "Programming since the age of 12, at which age made my first program in BAS
      level: 1
    - name: C/C++
      level: 4
-   - name: "C#"
+   - name: C#
      level: 5
    - name: Unity Engine
      level: 3
