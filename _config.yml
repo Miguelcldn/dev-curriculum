@@ -15,7 +15,13 @@ github: miguelcldn
 googleplus: +MiguelCeledon
 facebook: miguel.celedon
 linkedin: miguelcldn/en
-bio: "[Under construction]"
+bio: > "Programming since the age of 12, at which age made my first program in BASIC 
+        and then my first calculator the same year. Since then I learnt and used C++ and C# 
+        until I entered to University always aiming to take my passion further away. In love with 
+        videogames, as a gamer and as a developer, wishing to work in that area while creating my 
+        own small games for practices and fun, but I've worked in several projects that 
+        helped me to dominate a whole lot of technologies and techniques that makes me a self-sufficient 
+        developer."
 
 # Skills
 #
@@ -30,130 +36,84 @@ bio: "[Under construction]"
 #
 # If you don't want one of the sections below, leave the variable without any values
  front-end:
-#   - name: HTML 5
-#     level: 
-#   - name: CSS 3
-#     level: 
-#   - name: JavaScript
-#     level: 
-#   - name: jQuery
-#     level: 
-#   - name: Angular
-#     level: 
-#   - name: Vue.js
-#     level: 
-#   - name: Bootstrap
-#     level: 
-#   - name: Materialize CSS
-#     level: 
-#   - name: LESS
-#     level: 
-#   - name: SASS
-#     level: 
-#   - name: Stylus
-#     level: 
-#   - name: Gulp
-#     level: 
-#   - name: Grunt
-#     level: 
-#   - name: Bower
-#     level: 
+   - name: HTML 5
+     level: 4
+   - name: CSS 3
+     level: 3
+   - name: JavaScript
+     level: 5
+   - name: jQuery
+     level: 3
+   - name: Three.js
+     level: 5
+   - name: Angular 2
+     level: 3
+   - name: Bootstrap
+     level: 3
+   - name: Gulp
+     level: 3
 
  back-end:
-#   - name: PHP
-#     level: 
-#   - name: Node.js
-#     level: 
-#   - name: Ruby
-#     level: 
-#   - name: Python
-#     level: 
-#   - name: Java
-#     level: 
-#   - name: COBOL
-#     level: 
-#   - name: SQL
-#     level: 
-#   - name: Lua
-#     level: 
+   - name: PHP
+     level: 3
+   - name: Node.js
+     level: 3
+   - name: Ruby
+     level: 1
+   - name: Python
+     level: 2
+   - name: Java
+     level: 4
+   - name: SQL
+     level: 4
 
  mobile:
-#   - name: Android
-#     level: 
-#   - name: Apache Cordova
-#     level: 
-#   - name: Ionic
-#     level: 
-#   - name: NativeScript
-#     level: 
+   - name: Android
+     level: 2
 
  db:
-#   - name: MySQL
-#     level: 
-#   - name: PostgreSQL
-#     level: 
-#   - name: MongoDB
-#     level: 
-#   - name: SQL Server
-#     level: 
-#   - name: Oracle
-#     level: 
-#   - name: Firebase
-#     level: 
-#   - name: NoSQL
-#     level: 
+   - name: MySQL
+     level: 3
+   - name: PostgreSQL
+     level: 3
+   - name: MongoDB
+     level: 3
+   - name: SQL Server
+     level: 3
 
  devops:
-#   - name: Docker
-#     level: 
-#   - name: Vagrant
-#     level: 
-#   - name: Jenkins
-#     level: 
-#   - name: Git
-#     level: 
-#   - name: Apache Maven
-#     level: 
-#   - name: Continuous Integration
-#     level: 
-#   - name: Continuous Delivery
-#     level: 
+   - name: Git
+     level: 4
+   - name: Team Foundation Service
+     level: 2
 
  methodologies:
-#   - name: Agile Methodologies
-#     level: 
-#   - name: Scrum
-#     level: 
-#   - name: RUP
-#     level: 
+   - name: Agile Methodologies
+     level: 3
+   - name: Scrum
+     level: 3
+   - name: TDD/BDD
+     level: 2
 
  others:
-#   - name: Web Services
-#     level: 
-#   - name: REST
-#     level: 
-#   - name: JEE, JSF, JPA, EJB, CDI
-#     level: 
-#   - name: iReport, Jasper Reports
-#     level: 
-#   - name: Hibernate
-#     level: 
-#   - name: Grails
-#     level: 
-#   - name: Symfony
-#     level: 
-#   - name: Twig
-#     level: 
-#   - name: Doctrine ORM
-#     level: 
-#   - name: Laravel, Blade, Eloquent ORM
-#     level: 
-#   - name: Ruby on Rails
-#     level: 
-#   - name: MEAN Stack
-#     level: 
-#   - name: Spring
-#     level: 
+   - name: Web Services
+     level: 3
+   - name: REST
+     level: 3
+   - name: JEE
+     level: 3
+   - name: MEAN Stack
+     level: 3
+   - name: Spring
+     level: 1
+   - name: C/C++
+     level: 4
+   - name: "C#"
+     level: 5
+   - name: Unity Engine
+     level: 3
+   - name: Unreal Engine
+     level: 3
 
 # Build settings
 
